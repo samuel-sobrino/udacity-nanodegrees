@@ -73,8 +73,8 @@ three foundational languages that power each and every website: HTML, CSS and
 JavaScript.
 
 1. [Intro to HTML and CSS](https://www.udacity.com/course/intro-to-html-and-css--ud304) &#9996;
-1. [Responsive Web Design Fundamentals](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893) &#128293;
-1. [Responsive Images](https://www.udacity.com/course/responsive-images--ud882)
+1. [Responsive Web Design Fundamentals](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893) &#9996;
+1. [Responsive Images](https://www.udacity.com/course/responsive-images--ud882) &#128293;
 1. [JavaScript Basics](https://www.udacity.com/course/javascript-basics--ud804) &#9996;
 1. [Intro to jQuery](https://www.udacity.com/course/intro-to-jquery--ud245) &#9996;
 1. [Object-Oriented JavaScript](https://www.udacity.com/course/object-oriented-javascript--ud015)
