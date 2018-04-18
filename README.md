@@ -74,10 +74,10 @@ JavaScript.
 
 1. [Intro to HTML and CSS](https://www.udacity.com/course/intro-to-html-and-css--ud304) &#9996;
 1. [Responsive Web Design Fundamentals](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893) &#9996;
-1. [Responsive Images](https://www.udacity.com/course/responsive-images--ud882) &#128293;
+1. [Responsive Images](https://www.udacity.com/course/responsive-images--ud882) &#9996;
 1. [JavaScript Basics](https://www.udacity.com/course/javascript-basics--ud804) &#9996;
 1. [Intro to jQuery](https://www.udacity.com/course/intro-to-jquery--ud245) &#9996;
-1. [Object-Oriented JavaScript](https://www.udacity.com/course/object-oriented-javascript--ud015)
+1. [Object-Oriented JavaScript](https://www.udacity.com/course/object-oriented-javascript--ud015) &#128293;
 1. [HTML5 Canvas](https://www.udacity.com/course/html5-canvas--ud292)
 1. [Website Performance Optimization](https://www.udacity.com/course/website-performance-optimization--ud884)
 1. [Browser Rendering Optimization](https://www.udacity.com/course/browser-rendering-optimization--ud860)
@@ -120,7 +120,7 @@ support hundreds of thousands of users.
 1. [Programming Foundations with Python](https://www.udacity.com/course/programming-foundations-with-python--ud036)
 1. [Intro to HTML and CSS](https://www.udacity.com/course/intro-to-html-and-css--ud304) &#9996;
 1. [Responsive Web Design Fundamentals](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893)
-1. [Responsive Images](https://www.udacity.com/course/responsive-images--ud882)
+1. [Responsive Images](https://www.udacity.com/course/responsive-images--ud882) &#9996;
 1. [Intro to Backend](https://www.udacity.com/course/intro-to-backend--ud171)
 1. [Intro to Relational Databases](https://www.udacity.com/course/intro-to-relational-databases--ud197)
 1. [Full Stack Foundations](https://www.udacity.com/course/full-stack-foundations--ud088)
