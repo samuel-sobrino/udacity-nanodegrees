@@ -79,8 +79,8 @@ JavaScript.
 1. [Intro to jQuery](https://www.udacity.com/course/intro-to-jquery--ud245) &#9996;
 1. [Object-Oriented JavaScript](https://www.udacity.com/course/object-oriented-javascript--ud015) &#9996;
 1. [HTML5 Canvas](https://www.udacity.com/course/html5-canvas--ud292) &#9996;
-1. [Website Performance Optimization](https://www.udacity.com/course/website-performance-optimization--ud884) &#128293;
-1. [Browser Rendering Optimization](https://www.udacity.com/course/browser-rendering-optimization--ud860)
+1. [Website Performance Optimization](https://www.udacity.com/course/website-performance-optimization--ud884) &#9996;
+1. [Browser Rendering Optimization](https://www.udacity.com/course/browser-rendering-optimization--ud860) &#128293;
 1. [Intro to AJAX](https://www.udacity.com/course/intro-to-ajax--ud110) &#9996;
 1. [JavaScript Design Patterns](https://www.udacity.com/course/javascript-design-patterns--ud989)
 1. [JavaScript Testing](https://www.udacity.com/course/javascript-testing--ud549)
