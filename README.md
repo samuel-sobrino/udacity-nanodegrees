@@ -83,7 +83,7 @@ JavaScript.
 1. [Browser Rendering Optimization](https://www.udacity.com/course/browser-rendering-optimization--ud860) &#9996;
 1. [Intro to AJAX](https://www.udacity.com/course/intro-to-ajax--ud110) &#9996;
 1. [JavaScript Design Patterns](https://www.udacity.com/course/javascript-design-patterns--ud989) &#9996;
-1. [JavaScript Testing](https://www.udacity.com/course/javascript-testing--ud549) &#128293;
+1. [JavaScript Testing](https://www.udacity.com/course/javascript-testing--ud549) &#9996;
 
 ---
 
@@ -98,7 +98,7 @@ front-end skills and master the newest technologies available.
 This program ensures you’re supremely well-prepared to succeed in a Senior Web
 Developer role.
 
-1. [Building High Conversion Web Forms](https://www.udacity.com/course/building-high-conversion-web-forms--ud890)
+1. [Building High Conversion Web Forms](https://www.udacity.com/course/building-high-conversion-web-forms--ud890) &#128293
 1. [Web Tooling & Automation](https://www.udacity.com/course/web-tooling-automation--ud892)
 1. [JavaScript Promises](https://www.udacity.com/course/javascript-promises--ud898) &#9996;
 1. [Offline Web Applications](https://www.udacity.com/course/offline-web-applications--ud899)
