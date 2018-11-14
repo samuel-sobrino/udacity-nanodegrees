@@ -48,7 +48,7 @@ from very kind people who found the project useful and asked for them.
 
 ## Table of Contents
 
-* [Front-End Web Developer Nanodegree](#front-end-web-developer-nanodegree)
+* [Front-End Web Developer Nanodegree](#front-end-web-developer-nanodegree) &#9996;
 * [Senior Web Developer Nanodegree](#senior-web-developer-nanodegree)
 * [Full Stack Web Developer Nanodegree](#full-stack-web-developer-nanodegree)
 * [Data Analyst Nanodegree](#data-analyst-nanodegree)
@@ -98,7 +98,7 @@ front-end skills and master the newest technologies available.
 This program ensures you’re supremely well-prepared to succeed in a Senior Web
 Developer role.
 
-1. [Building High Conversion Web Forms](https://www.udacity.com/course/building-high-conversion-web-forms--ud890) &#128293
+1. [Building High Conversion Web Forms](https://www.udacity.com/course/building-high-conversion-web-forms--ud890) &#128293;
 1. [Web Tooling & Automation](https://www.udacity.com/course/web-tooling-automation--ud892)
 1. [JavaScript Promises](https://www.udacity.com/course/javascript-promises--ud898) &#9996;
 1. [Offline Web Applications](https://www.udacity.com/course/offline-web-applications--ud899)
