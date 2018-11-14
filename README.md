@@ -49,7 +49,7 @@ from very kind people who found the project useful and asked for them.
 ## Table of Contents
 
 * [Front-End Web Developer Nanodegree](#front-end-web-developer-nanodegree) &#9996;
-* [Senior Web Developer Nanodegree](#senior-web-developer-nanodegree)
+* [Senior Web Developer Nanodegree](#senior-web-developer-nanodegree) &#128293;
 * [Full Stack Web Developer Nanodegree](#full-stack-web-developer-nanodegree)
 * [Data Analyst Nanodegree](#data-analyst-nanodegree)
 * [Machine Learning Engineer Nanodegree](#machine-learning-engineer-nanodegree)
