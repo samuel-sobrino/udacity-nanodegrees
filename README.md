@@ -98,7 +98,7 @@ front-end skills and master the newest technologies available.
 This program ensures you’re supremely well-prepared to succeed in a Senior Web
 Developer role.
 
-1. [Building High Conversion Web Forms](https://www.udacity.com/course/building-high-conversion-web-forms--ud890) &#128293;
+1. [Building High Conversion Web Forms](https://www.udacity.com/course/building-high-conversion-web-forms--ud890) &#9996;
 1. [Web Tooling & Automation](https://www.udacity.com/course/web-tooling-automation--ud892)
 1. [JavaScript Promises](https://www.udacity.com/course/javascript-promises--ud898) &#9996;
 1. [Offline Web Applications](https://www.udacity.com/course/offline-web-applications--ud899)
@@ -117,7 +117,7 @@ databases to persistently store data.
 You’ll learn to build applications that can support any front-end, and scale to
 support hundreds of thousands of users.
 
-1. [Programming Foundations with Python](https://www.udacity.com/course/programming-foundations-with-python--ud036)
+1. [Programming Foundations with Python](https://www.udacity.com/course/programming-foundations-with-python--ud036) &#128293;
 1. [Intro to HTML and CSS](https://www.udacity.com/course/intro-to-html-and-css--ud304) &#9996;
 1. [Responsive Web Design Fundamentals](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893)
 1. [Responsive Images](https://www.udacity.com/course/responsive-images--ud882) &#9996;
