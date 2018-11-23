@@ -1,36 +1,3 @@
-# Udacity Nanodegrees
-
-[Udacity](https://www.udacity.com/) offers some great content in their
-[Nanodegree](https://www.udacity.com/nanodegree) programs. If you don't have
-the money, and/or just don't want to pay for them, you can take many of the
-courses for free.
-
-While it's no substitute for the actual Nanodegree programs
-(which include project reviews, additional student and career guidance, and a
-job guarantee) there is some great content available for learning.
-
-NOTE: I have NO affiliation with Udacity
-
----
-
-## Why are only some of the Nanodegrees listed here?
-
-The focus of this project has always been making learning accessible. As
-such, I've chosen to only only list Nanodegrees with free content. All of
-the Nanodegrees programs listed here meet the following criteria:
-
-* Nanodegree lists syllabus on it's public-facing (non-logged in) page
-* Links to each course in the syllabus are available on the public-facing Nanodegree page
-* Individual courses are available to take for free via their public facing course page
-
-Lately, as Udacity adds more and more great (and relevent) programs, the
-newer Nanodegrees haven't been listing the courses and/or linking to them and
-this list hasn't been updated as frequently.
-
-
-
----
-
 ## Table of Contents
 
 * [Front-End Web Developer Nanodegree](#front-end-web-developer-nanodegree) &#9996;
