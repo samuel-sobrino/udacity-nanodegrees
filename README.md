@@ -11,6 +11,7 @@
 * [iOS Developer Nanodegree](#ios-developer-nanodegree)
 * [Mobile Game Developer Nanodegree](#mobile-game-developer-nanodegree)
 * [Predictive Analytics for Business Nanodegree](#predictive-analytics-for-business-nanodegree)
+* [Python courses](#python-courses)
 
 ---
 
@@ -235,3 +236,11 @@ business problems.
 1. [A/B Testing for Business Analysts](https://www.udacity.com/course/ab-testing--ud979)
 1. [Time Series Forecasting](https://www.udacity.com/course/time-series-forecasting--ud980)
 1. [Segmentation and Clustering](https://www.udacity.com/course/segmentation-and-clustering--ud981)
+
+---
+
+### Python Courses
+
+1. [Programming Foundations with Python](https://www.udacity.com/course/programming-foundations-with-python--ud036) &#128293;
+1. [Introduction to Python](https://www.udacity.com/course/introduction-to-python--ud1110)
+1. [Data Structures & Algorithms in Python](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513)
