@@ -241,7 +241,7 @@ business problems.
 
 ### Python Courses
 
-1. [Programming Foundations with Python](https://www.udacity.com/course/programming-foundations-with-python--ud036) &#128293;
-1. [Introduction to Python](https://www.udacity.com/course/introduction-to-python--ud1110)
+1. [Programming Foundations with Python](https://www.udacity.com/course/programming-foundations-with-python--ud036) &#9996;
+1. [Introduction to Python](https://www.udacity.com/course/introduction-to-python--ud1110) &#128293;
 1. [Developing Scalable Apps in Python](https://www.udacity.com/course/developing-scalable-apps-in-python--ud858)
 1. [Data Structures & Algorithms in Python](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513)
