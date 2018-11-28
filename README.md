@@ -11,7 +11,7 @@
 * [iOS Developer Nanodegree](#ios-developer-nanodegree)
 * [Mobile Game Developer Nanodegree](#mobile-game-developer-nanodegree)
 * [Predictive Analytics for Business Nanodegree](#predictive-analytics-for-business-nanodegree)
-* [Python courses](#python-courses)
+* [Python courses](#python-courses) &#128293;
 
 ---
 
@@ -70,7 +70,7 @@ databases to persistently store data.
 You’ll learn to build applications that can support any front-end, and scale to
 support hundreds of thousands of users.
 
-1. [Programming Foundations with Python](https://www.udacity.com/course/programming-foundations-with-python--ud036) &#128293;
+1. [Programming Foundations with Python](https://www.udacity.com/course/programming-foundations-with-python--ud036) &#9996;
 1. [Intro to HTML and CSS](https://www.udacity.com/course/intro-to-html-and-css--ud304) &#9996;
 1. [Responsive Web Design Fundamentals](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893)
 1. [Responsive Images](https://www.udacity.com/course/responsive-images--ud882) &#9996;
